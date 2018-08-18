@@ -1,0 +1,16 @@
+{
+  "name": "mockexpress-server",
+  "version": "1.0.0",
+  "description": "This is a simple server for support some useful data.",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangkun",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
